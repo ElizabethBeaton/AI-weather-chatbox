@@ -1,0 +1,12 @@
+# Node
+Client/node_modules
+Client/.vite
+Client/dist
+
+# Python
+Server/.venv
+__pycache__/
+
+# Misc
+.env
+.DS_Store
